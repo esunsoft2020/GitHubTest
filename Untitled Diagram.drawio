@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2021-09-28T16:11:21.330Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36" etag="JvchcmGoFFHJ7afjo3Oc" version="15.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-05T06:47:21.243Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36" etag="SjvveWOms_NmuEC_WRIT" version="15.3.7" type="github">
   <diagram id="7ni1pH2fpvkdQiMi3Z_y" name="Page-1">
-    <mxGraphModel dx="1298" dy="721" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="858" dy="1890" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="QWIK3O2TFDbX4zNZtaBu-2" value="" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;" parent="1" vertex="1">
-          <mxGeometry x="111" y="81" width="530" height="530" as="geometry" />
+          <mxGeometry x="111" y="-20" width="530" height="631" as="geometry" />
         </mxCell>
         <mxCell id="vArwF5hS8wq1QVAG_Up8-10" value="" style="edgeStyle=none;curved=1;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;endArrow=none;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;endFill=0;" parent="1" source="QWIK3O2TFDbX4zNZtaBu-1" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -50,7 +50,7 @@
         <mxCell id="vArwF5hS8wq1QVAG_Up8-25" value="" style="edgeStyle=none;curved=1;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;endArrow=none;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;startArrow=openThin;startFill=0;endFill=0;" parent="1" source="vArwF5hS8wq1QVAG_Up8-11" target="vArwF5hS8wq1QVAG_Up8-24" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="vArwF5hS8wq1QVAG_Up8-11" value="정보변경" style="ellipse;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;pointerEvents=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=18;" parent="1" vertex="1">
+        <mxCell id="vArwF5hS8wq1QVAG_Up8-11" value="회원 정보변경" style="ellipse;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;pointerEvents=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="140" y="220" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="vArwF5hS8wq1QVAG_Up8-43" style="edgeStyle=none;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;startArrow=none;startFill=0;endArrow=none;endFill=0;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;curved=1;" parent="1" edge="1">
@@ -95,16 +95,15 @@
         <mxCell id="vArwF5hS8wq1QVAG_Up8-36" value="회원" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;hachureGap=4;pointerEvents=0;sketch=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="70" y="300" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="vArwF5hS8wq1QVAG_Up8-52" style="edgeStyle=none;curved=1;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.983;entryY=0.35;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;startArrow=none;startFill=0;endArrow=open;endFill=0;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" parent="1" source="vArwF5hS8wq1QVAG_Up8-42" target="vArwF5hS8wq1QVAG_Up8-48" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="vArwF5hS8wq1QVAG_Up8-42" value="대한항공 서버" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;pointerEvents=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="670" y="260" width="140" height="60" as="geometry" />
+        <mxCell id="vArwF5hS8wq1QVAG_Up8-52" style="edgeStyle=none;curved=1;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.983;entryY=0.35;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;startArrow=none;startFill=0;endArrow=open;endFill=0;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" parent="1" target="vArwF5hS8wq1QVAG_Up8-48" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="662" y="293.078137332281" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="vArwF5hS8wq1QVAG_Up8-47" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;fontSize=16;sketch=1;curved=1;rounded=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;startSize=14;endSize=14;endFill=0;" parent="1" edge="1">
           <mxGeometry width="120" relative="1" as="geometry">
             <mxPoint x="380" y="140" as="sourcePoint" />
-            <mxPoint x="670" y="250" as="targetPoint" />
+            <mxPoint x="690" y="260" as="targetPoint" />
             <Array as="points">
               <mxPoint x="590" y="140" />
             </Array>
@@ -113,7 +112,7 @@
         <mxCell id="vArwF5hS8wq1QVAG_Up8-55" value="" style="edgeStyle=none;curved=1;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;startArrow=openThin;startFill=0;endArrow=none;endFill=0;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" parent="1" source="vArwF5hS8wq1QVAG_Up8-48" target="vArwF5hS8wq1QVAG_Up8-54" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="vArwF5hS8wq1QVAG_Up8-48" value="차량정보 관리" style="ellipse;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;pointerEvents=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=18;" parent="1" vertex="1">
+        <mxCell id="vArwF5hS8wq1QVAG_Up8-48" value="회원 차량정보 관리" style="ellipse;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;pointerEvents=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="470" y="275" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vArwF5hS8wq1QVAG_Up8-54" value="차량 첨부파일 수정" style="ellipse;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;pointerEvents=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=18;" parent="1" vertex="1">
@@ -133,6 +132,15 @@
               <mxPoint x="510" y="340" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="AiQbZ2-P-3CV76rrEgvK-1" value="대한항공 서버" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;hachureGap=4;pointerEvents=0;sketch=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="710" y="270" width="30" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="AiQbZ2-P-3CV76rrEgvK-7" value="" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;curved=1;" edge="1" parent="1" source="AiQbZ2-P-3CV76rrEgvK-6" target="vArwF5hS8wq1QVAG_Up8-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AiQbZ2-P-3CV76rrEgvK-6" value="회원가입" style="ellipse;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;pointerEvents=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="240" y="30" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
